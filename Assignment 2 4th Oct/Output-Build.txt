@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: Greater of 2 number, Configuration: Debug x64 ------
+1>Greater of 2 number.cpp
+1>C:\Users\bhave\source\repos\Greater of 2 number\Greater of 2 number\Greater of 2 number.cpp(10,6): warning C4101: 'c': unreferenced local variable
+1>Greater of 2 number.vcxproj -> C:\Users\bhave\source\repos\Greater of 2 number\x64\Debug\Greater of 2 number.exe
+1>Done building project "Greater of 2 number.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
