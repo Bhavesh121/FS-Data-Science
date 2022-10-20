@@ -1,4 +1,4 @@
-// Greater of 2 number.cpp 
+// Write a C++ program to find greater of 2 numbers
 //
 
 #include <iostream>
